@@ -1,0 +1,13 @@
+pandas
+Pillow
+matplotlib
+numpy
+opencv-python
+tqdm
+torchsummary
+scikit-learn
+pygame
+torchvision
+gymnasium==0.29.1
+gymnasium[box2d]
+seaborn
