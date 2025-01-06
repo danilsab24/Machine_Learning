@@ -1,4 +1,3 @@
-<video width="640" height="360" controls>
-  <source src="Daniele_Sabatini_1890300.mp4" type="video/mp4">
-  Il tuo browser non supporta la riproduzione di video HTML5. Puoi scaricare il video [qui](HW2/Daniele_Sabatini_1890300.mp4).
-</video>
+The video demonstrates the performance of a convolutional neural network (CNN) trained to solve a challenging image classification task in the Car Racing v2 environment. This task involves mapping visual inputs to driving actions, such as steering, braking, and accelerating. The model showcased in the video represents the culmination of extensive experimentation, including dataset preprocessing, hyperparameter optimization, and architectural adjustments, all aimed at achieving optimal driving behavior. The final model successfully navigates the environment, leveraging its learned policies to control the car effectively.
+https://github.com/user-attachments/assets/01c5bf8a-0c3e-4fef-a69a-edfdb8524039
+
